@@ -1,7 +1,7 @@
 # SimSpirit HeadTracker
 
 The SimSpirit HeadTracker is a crucial component of the SimSpirit Motion Simulator platform, offering precise head movement tracking for an immersive and realistic simulation experience. This README provides an overview of the HeadTracker module, including its features, integration instructions, and additional information on supported IMUs.
-![Image SimSpirit PCB Layout](https://github.com/jpdigitalman/SimSpirit-MotionSimulation-Headtracker/blob/main/PCB_Layout/HT.png?raw=true)
+![Image SimSpirit PCB Layout](https://github.com/jpdigitalman/SimSpirit-MotionSimulation-Headtracker/blob/main/PCB_Layout/HT3.png?raw=true)
 ## Features
 
 - **BNO085 or LSM6DS3 IMU**: The HeadTracker supports two options for the inertial measurement unit (IMU). The user can choose between the BNO085 and LSM6DS3 IMU, depending on their chosen schematics and PCB assembly.
