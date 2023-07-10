@@ -23,7 +23,7 @@ To integrate the SimSpirit HeadTracker into your SimSpirit Motion Simulator setu
 
 ## License
 
-SimSpirit HeadTracker is released under the [MIT License](LICENSE). You are free to use, modify, and distribute the HeadTracker module in accordance with the terms and conditions stated in the license.
+SimSpirit HeadTracker is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the HeadTracker module in accordance with the terms and conditions stated in the license.
 
 ## Support
 
